@@ -1,0 +1,36 @@
+
+#lnks{
+    position: relative;
+    border-width: 20px;
+    border-color: rgb(248, 3, 3);
+}
+#Ph,#Ad {
+
+    text-decoration: none;
+    color: black;
+    font-family: Arial;
+    float: right;
+  
+    
+}
+p{
+    font-size: 6mm;
+    font-family: sans-serif;
+    color: red;
+}
+#Ph:hover,#Ad:hover {
+    text-decoration:underline;
+    color: black;
+}
+#Ph {
+    margin-left: 20px;
+}
+
+#frm{
+    position: relative;
+}
+
+img{
+    width: 70px;
+    height:30px;
+}
